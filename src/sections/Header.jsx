@@ -3,7 +3,7 @@ const Header = () => {
     <header>
         <div>
             <a>
-                <img src="/xora.svg" width={115} height={55} alt="logo"/>
+                <img src="/images/xora.svg" width={115} height={55} alt="logo"/>
             </a>
         </div>
     </header>
